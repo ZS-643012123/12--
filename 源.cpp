@@ -2,7 +2,7 @@
 using namespace std;
 struct  Point
 {
-    int x, y;////xindeceshi
+    int x, y;////xsadasdasdsadsadasdasda
 };
 int main() {
     int n,x,y;//x,y暂时提出来
