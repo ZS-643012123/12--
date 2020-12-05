@@ -10,7 +10,7 @@ int main() {
     Point* p=new Point[n];//存垃圾
     int pd, so;
     int* zs=new int [n];
-    int soc[5] ;//分别得分为0-4的个数
+    int soc[5] ;//分别得分为0-4的个数sdsd
     for (int i = 0; i < 5; i++) {
         soc[i] = 0;
     }
